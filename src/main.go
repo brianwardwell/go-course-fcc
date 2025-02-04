@@ -21,4 +21,6 @@ func main() {
 	messageEnd := "years old!"
 
 	fmt.Println(messageStart, age, messageEnd)
+
+	fmt.Println("test_author")
 }
